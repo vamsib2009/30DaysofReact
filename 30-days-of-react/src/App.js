@@ -4,6 +4,8 @@ import React, { useState, Component} from 'react';
 import ReactDOM from 'react-dom';
 import dogeimg from './images/doge.jpg';
 import Uncontrolled from './Uncontrolled';
+import { FaBookOpen } from "react-icons/fa";
+
 
 // Header Component
 //Class component is traditional way of creating components
@@ -12,8 +14,10 @@ class Header extends Component {
     return (
       <header>
         <div className='header-wrapper'>
-          <h1>Subscribe</h1>
-          <h2>Sign up with your email address to receive the latest news and updates</h2>
+          <h1>Learn React
+          <FaBookOpen/>
+          </h1>
+          <h2>Tip: do reading but practical coding is needed</h2>
         </div>
       </header>
     )
