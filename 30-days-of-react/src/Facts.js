@@ -1,3 +1,4 @@
+//Facts about Shiba Inu dog
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
