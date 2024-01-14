@@ -1,14 +1,14 @@
 # React Learning Journey
 
-Purpose of this Repository is to document my learning journey of react. In this repository, there are numerous projects:
+The purpose of this Repository is to document my learning journey of react. In this repository, there are numerous projects:
 
 # 1. 30 days of React project
 
-This project is documents my learning journey of 30-days-of-react course by Asabeneh.
+This project documents my learning journey of 30-days-of-react course by Asabeneh.
 
 Not only I learnt by reading tutorials provided by the course, I also created a separate website project of my own to apply the newly learnt concepts. 
 
-Link: https://github.com/Asabeneh/30-Days-Of-React
+Course link: https://github.com/Asabeneh/30-Days-Of-React
 
 # 2. To-do app
 coming soon
